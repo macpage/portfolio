@@ -112,10 +112,10 @@ h1{
 
 .coding p, .tools p{
     display: grid;
-    grid-template-rows: 10% 90%;
+    grid-template-rows: max-content max-content;
     text-align: center;
     align-items: center;
-    justify-content: center;
+    justify-items: center;
 }
 
 .projects{
