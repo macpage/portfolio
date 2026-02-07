@@ -293,8 +293,8 @@ img {
     box-sizing: border-box;
   }
   .projects img{
-       width: clamp(120px, 20vw, 400px);
-    height: clamp(60px, 10vw, 200px)
+       width: clamp(120px, 20vw, 300px);
+    height: clamp(60px, 10vw, 150px)
   }
   
 }
